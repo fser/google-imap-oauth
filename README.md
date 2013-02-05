@@ -13,7 +13,8 @@ This module / script collection use the following modules (available on CPAN):
 How does it work?
 =================
 
-First of all, you need to register your application on https://code.google.com/apis/console \\
+First of all, you need to register your application on https://code.google.com/apis/console.
+
 In the `API Access` tab, you will find 2 parameters: `Client ID`, `Client secret`.
 You need to set them in the `settings.ini` file.
 
