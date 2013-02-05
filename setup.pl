@@ -18,6 +18,6 @@ $cfg->param('refresh_token', $data->{refresh_token});
 $cfg->param('access_token', $data->{access_token});
 $cfg->save();
 
-print "Config file updated successfuly. You can now run client.pl :)\n";
+print "Config file updated successfuly. Get a token using get_token.pl and feel free to run client.pl :)\n";
 
 
