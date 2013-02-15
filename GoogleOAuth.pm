@@ -7,8 +7,6 @@ package GoogleOAuth;
 use warnings;
 use strict;
 
-use Net::OAuth;
-
 BEGIN {
 				require Exporter;
 				our $VERSION = 1.00;
